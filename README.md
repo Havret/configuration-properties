@@ -1,2 +1,2 @@
 # configuration-properties
-.properties configuration provider implementation for Microsoft.Extensions.Configuration.
+[.properties](https://en.wikipedia.org/wiki/.properties) configuration provider implementation for Microsoft.Extensions.Configuration.
