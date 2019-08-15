@@ -4,7 +4,7 @@
     <Description>.properties configuration provider implementation for Microsoft.Extensions.Configuration.</Description>
     <PackageTags>configuration;properties</PackageTags>    
     <Authors>Krzysztof Porebski</Authors>
-    <PackageLicense>https://github.com/Havret/configuration-properties/blob/master/LICENSE</PackageLicense>    
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>  
     <RepositoryUrl>https://github.com/Havret/configuration-properties</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
